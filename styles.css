@@ -365,6 +365,13 @@ footer{
     border: 6px solid var(--lt-blue);
     margin: 1rem auto 2rem auto;
     border-radius: 8px;
+    display: block;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+    box-shadow: var(--box-shadow-lg);
+    text-decoration: none;
 }
 
 /* For the last paragraph in the section */
